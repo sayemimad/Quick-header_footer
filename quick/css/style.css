@@ -1,0 +1,109 @@
+
+
+ 
+/*commom css start*/
+
+
+body{
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+}
+
+
+/*commom css end*/
+
+/*header start*/
+header{
+    border: 2px solid #00000042;
+    padding: 15px 0px;
+}
+.wrapper {
+ margin: 0 auto;
+ width: 90%;
+ 
+ overflow: hidden;
+
+}
+
+.logo {
+width: 10%;
+
+float: left;
+
+}
+
+.logo img{
+  
+	width: 100%;
+}
+.logo img:hover{
+  transform: scale(0.8);
+}
+
+.menu {
+float: right;
+width: 45%;
+
+margin-top: 5px;
+}
+
+.menu ul{
+	float: right;
+    
+}
+.menu ul li{
+	list-style: none;
+    float: left;
+
+     
+}
+.menu ul li a{
+	text-decoration: none;
+     padding: 0px 15px;
+    display: inline-block;
+     
+
+}
+
+.menu ul li:last-child a{
+
+  padding-right:0 ;
+}
+
+.menu ul li a:hover{
+
+  color:#0089FF ;
+}
+
+/*header end*/
+
+
+
+
+/*footer start*/
+
+
+.footer{
+
+padding-top: 55px;
+}
+
+
+.wrapper6{
+background-color: #008aff;
+    padding: 2%;
+}
+
+.f_text{
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+
+
+
+/*footer end*/
+
+
